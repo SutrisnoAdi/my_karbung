@@ -29,11 +29,11 @@ class _MyHeaderDrawerState extends State<MyHeaderDrawer> {
             ),
           ),
           const Text(
-            "Bestree",
+            "KARBUNG",
             style: TextStyle(color: Colors.white, fontSize: 20),
           ),
           const Text(
-            "Aplikasi Budidaya Tanaman",
+            "Aplikasi Karangan Bunga",
             style: TextStyle(color: Colors.white, fontSize: 14),
           ),
         ],

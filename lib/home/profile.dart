@@ -21,7 +21,7 @@ class Profil extends StatelessWidget {
                 backgroundImage: AssetImage('images/bestree.png'),
               ),
               Text(
-                "Faizal Muhammad Azis",
+                "Karangan Bunga",
                 style: TextStyle(fontFamily: 'Galada-Regular', fontSize: 18.0, color: Colors.teal.shade900, fontWeight: FontWeight.bold),
               ),
               Text(
@@ -46,7 +46,7 @@ class Profil extends StatelessWidget {
                     color: Colors.white,
                   ),
                   title: Text(
-                    "Faizalazis",
+                    "Karbung2",
                     style: TextStyle(
                       fontSize: 15.0,
                       color: Colors.white,
@@ -65,7 +65,7 @@ class Profil extends StatelessWidget {
                     color: Colors.white,
                   ),
                   title: Text(
-                    "Faizal@gmail.com",
+                    "Karanganbunga123@yahoo.com",
                     style: TextStyle(
                       fontSize: 15.0,
                       color: Colors.white,
